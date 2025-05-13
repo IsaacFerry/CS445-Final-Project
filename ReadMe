@@ -1,11 +1,14 @@
 ## CardioData Insights: A Heart Disease Risk Visualization
 
 **Team BeatBytes**  
-_A data visualization project to explore heart disease risk factors using Python and Jupyter Notebook. Created by Isaac Ferry, Josh Melchor-Nieto, and Jamie Almeida.
+A data visualization project to explore heart disease risk factors using Python and Jupyter Notebook. Created by Isaac Ferry, Josh Melchor-Nieto, and Jamie Almeida.
 
 ---
 ## 📌 Project Overview  
-This project analyzes a heart disease dataset to uncover correlations between lifestyle factors, biological markers, and heart disease risk. Using **9 distinct visualizations**, we aim to identify key predictors of cardiovascular conditions and provide actionable insights for preventive healthcare strategies. The dataset includes attributes such as age, blood pressure, cholesterol levels, exercise habits, and more.
+This project analyzes a heart disease dataset to uncover correlations between 
+lifestyle factors, biological markers, and heart disease risk. Using **9 distinct visualizations**, 
+we aim to identify key predictors of cardiovascular conditions and provide actionable insights for preventive healthcare strategies. 
+The dataset includes attributes such as age, blood pressure, cholesterol levels, exercise habits, and more.
 
 **Key Goals**:  
 - Identify lifestyle and biological factors strongly linked to heart disease.  
