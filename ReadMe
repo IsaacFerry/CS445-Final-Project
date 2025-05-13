@@ -1,4 +1,4 @@
-## CardioData Insights: A Heart Disease Risk Visualization
+##CardioData Insights: A Heart Disease Risk Visualization
 
 **Team BeatBytes**  
 _A data visualization project to explore heart disease risk factors using Python and Jupyter Notebook. Created by Isaac Ferry, Josh Melchor-Nieto, and Jamie Almeida.
@@ -15,7 +15,7 @@ This project analyzes a heart disease dataset to uncover correlations between li
 ---
 
 ## 📂 Dataset  
-**Source**: [Kaggle](https://www.kaggle.com/) (Curated by Oktay Ördekçi).  
+**Source**: [Kaggle](https://www.kaggle.com/datasets/oktayrdeki/heart-disease) (Curated by Oktay Ördekçi).  
 **Attributes**: Age, Gender, Blood Pressure, Cholesterol, Exercise Habits, Smoking, Diabetes, BMI, Stress Levels, and more.  
 
 Download the dataset and place it in the `data/` directory. The Jupyter Notebook expects the file to be named `heart_disease_data.csv`.
