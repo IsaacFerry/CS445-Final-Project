@@ -30,7 +30,7 @@ Download the dataset and place it in the `data/` directory. The Jupyter Notebook
 ## 📊 Visualizations
 
 All visualizations are saved as high-resolution PNGs in the visualizations/ folder. Below are the 9 distinct analyses:
- - Histogram
+ - Line Plot
  - Heatmap 
  - Radar Chart
  - Violin Plot
